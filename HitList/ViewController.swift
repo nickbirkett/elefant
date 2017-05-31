@@ -109,7 +109,7 @@ extension ViewController: UITableViewDataSource {
     //cell.textLabel?.text = advice.value(forKeyPath: "name") as? String
     cell.textLabel?.text = "Section \(indexPath.section) Row \(indexPath.row) \(name) \(advisor)"
     
-    // something
+    // something really stupid
     return cell
   }
 }
