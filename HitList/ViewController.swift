@@ -108,6 +108,8 @@ extension ViewController: UITableViewDataSource {
                                              for: indexPath)
     //cell.textLabel?.text = advice.value(forKeyPath: "name") as? String
     cell.textLabel?.text = "Section \(indexPath.section) Row \(indexPath.row) \(name) \(advisor)"
+    
+    // something
     return cell
   }
 }
