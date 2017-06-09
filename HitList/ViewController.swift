@@ -107,9 +107,9 @@ extension ViewController: UITableViewDataSource {
     let cell = tableView.dequeueReusableCell(withIdentifier: "Cell",
                                              for: indexPath)
     //cell.textLabel?.text = advice.value(forKeyPath: "name") as? String
-    cell.textLabel?.text = "Section \(indexPath.section) Row \(indexPath.row) \(name) \(advisor)"
+    //cell.textLabel?.text = "Section \(indexPath.section) Row \(indexPath.row) - \(name) - \(advisor)"
+    cell.textLabel?.text = "\(section.self): \(name) - \(advisor)"
     
-    // something really stupid that's what she said
     return cell
   }
 }
