@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3FF015CE1EEB26E1003D3F7A /* NB photo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FF015CD1EEB26E1003D3F7A /* NB photo.jpg */; };
 		4B69E95A1EDF6C3300ABC1A3 /* Main1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B69E9591EDF6C3300ABC1A3 /* Main1.storyboard */; };
 		4BA779961ED55E11003DB121 /* elefantLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BA779951ED55E11003DB121 /* elefantLogo.png */; };
 		FEA624511D6A29610011CF8F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEA624501D6A29610011CF8F /* AppDelegate.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3FF015CD1EEB26E1003D3F7A /* NB photo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "NB photo.jpg"; path = "../../Photos/NB photo.jpg"; sourceTree = "<group>"; };
 		4B69E9591EDF6C3300ABC1A3 /* Main1.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main1.storyboard; sourceTree = "<group>"; };
 		4BA779951ED55E11003DB121 /* elefantLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = elefantLogo.png; sourceTree = "<group>"; };
 		FEA6244D1D6A29610011CF8F /* Elefant03.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Elefant03.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				4B69E9591EDF6C3300ABC1A3 /* Main1.storyboard */,
+				3FF015CD1EEB26E1003D3F7A /* NB photo.jpg */,
 				4BA779951ED55E11003DB121 /* elefantLogo.png */,
 				FEA624501D6A29610011CF8F /* AppDelegate.swift */,
 				FEA624521D6A29610011CF8F /* ViewController.swift */,
@@ -221,6 +224,7 @@
 				4B69E95A1EDF6C3300ABC1A3 /* Main1.storyboard in Resources */,
 				4BA779961ED55E11003DB121 /* elefantLogo.png in Resources */,
 				FEA6245E1D6A29610011CF8F /* LaunchScreen.storyboard in Resources */,
+				3FF015CE1EEB26E1003D3F7A /* NB photo.jpg in Resources */,
 				FEA6245B1D6A29610011CF8F /* Assets.xcassets in Resources */,
 				FEA624561D6A29610011CF8F /* Main.storyboard in Resources */,
 			);
