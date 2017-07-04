@@ -107,9 +107,30 @@ extension ViewController: UITableViewDataSource {
     let cell = tableView.dequeueReusableCell(withIdentifier: "Cell",
                                              for: indexPath)
     //cell.textLabel?.text = advice.value(forKeyPath: "name") as? String
-    cell.textLabel?.text = "Section \(indexPath.section) Row \(indexPath.row) \(name) \(advisor)"
+    //cell.textLabel?.text = "Section \(indexPath.section) Row \(indexPath.row) - \(name) - \(advisor)"
+    cell.textLabel?.text = "\(section.self): \(name) - \(advisor)"
     
-    // something really stupid that's what she said
     return cell
   }
+  
+  
+  
+  func tableView1(_ tableView: UITableView,
+                 cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+    
+    let advice = tableAdvice[indexPath.row]
+    
+    let name = advice.value(forKeyPath: "name")
+    let advisor = advice.value(forKeyPath: "advisor")
+    
+    let cell = tableView.dequeueReusableCell(withIdentifier: "Cell",
+                                             for: indexPath)
+    //cell.textLabel?.text = advice.value(forKeyPath: "name") as? String
+    //cell.textLabel?.text = "Section \(indexPath.section) Row \(indexPath.row) - \(name) - \(advisor)"
+    cell.textLabel?.text = "\(section.self): \(name) - \(advisor)"
+    
+    return cell
+  }
+
+  
 }
