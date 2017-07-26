@@ -8,6 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		3F9AF6711F2917F40005EDB5 /* Elefant Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9AF6701F2917F40005EDB5 /* Elefant Logo.png */; };
+		3F9AF6841F29210D0005EDB5 /* Yellow Category.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9AF67E1F29210D0005EDB5 /* Yellow Category.png */; };
+		3F9AF6851F29210D0005EDB5 /* Blue Category.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9AF67F1F29210D0005EDB5 /* Blue Category.png */; };
+		3F9AF6861F29210D0005EDB5 /* Purple Category.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9AF6801F29210D0005EDB5 /* Purple Category.png */; };
+		3F9AF6871F29210D0005EDB5 /* Orange Category.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9AF6811F29210D0005EDB5 /* Orange Category.png */; };
+		3F9AF6881F29210D0005EDB5 /* Green Category.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9AF6821F29210D0005EDB5 /* Green Category.png */; };
+		3F9AF6891F29210D0005EDB5 /* Pink Category.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9AF6831F29210D0005EDB5 /* Pink Category.png */; };
 		4B251D9E1F017D11005E51D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B251D9D1F017D11005E51D4 /* Main.storyboard */; };
 		4B251DA01F017D44005E51D4 /* NB photo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4B251D9F1F017D44005E51D4 /* NB photo.jpg */; };
 		4BA779961ED55E11003DB121 /* elefantLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BA779951ED55E11003DB121 /* elefantLogo.png */; };
@@ -41,6 +47,12 @@
 
 /* Begin PBXFileReference section */
 		3F9AF6701F2917F40005EDB5 /* Elefant Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Elefant Logo.png"; path = "../../../Desktop/Elefant Logo.png"; sourceTree = "<group>"; };
+		3F9AF67E1F29210D0005EDB5 /* Yellow Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Yellow Category.png"; path = "../../../Desktop/Yellow Category.png"; sourceTree = "<group>"; };
+		3F9AF67F1F29210D0005EDB5 /* Blue Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Blue Category.png"; path = "../../../Desktop/Blue Category.png"; sourceTree = "<group>"; };
+		3F9AF6801F29210D0005EDB5 /* Purple Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Purple Category.png"; path = "../../../Desktop/Purple Category.png"; sourceTree = "<group>"; };
+		3F9AF6811F29210D0005EDB5 /* Orange Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Orange Category.png"; path = "../../../Desktop/Orange Category.png"; sourceTree = "<group>"; };
+		3F9AF6821F29210D0005EDB5 /* Green Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Green Category.png"; path = "../../../Desktop/Green Category.png"; sourceTree = "<group>"; };
+		3F9AF6831F29210D0005EDB5 /* Pink Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Pink Category.png"; path = "../../../Desktop/Pink Category.png"; sourceTree = "<group>"; };
 		4B251D9D1F017D11005E51D4 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		4B251D9F1F017D44005E51D4 /* NB photo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "NB photo.jpg"; sourceTree = "<group>"; };
 		4BA779951ED55E11003DB121 /* elefantLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = elefantLogo.png; sourceTree = "<group>"; };
@@ -113,6 +125,12 @@
 				4BFE76F81F2877AC001DDD47 /* Main3.storyboard */,
 				4BA779951ED55E11003DB121 /* elefantLogo.png */,
 				3F9AF6701F2917F40005EDB5 /* Elefant Logo.png */,
+				3F9AF67E1F29210D0005EDB5 /* Yellow Category.png */,
+				3F9AF67F1F29210D0005EDB5 /* Blue Category.png */,
+				3F9AF6801F29210D0005EDB5 /* Purple Category.png */,
+				3F9AF6811F29210D0005EDB5 /* Orange Category.png */,
+				3F9AF6821F29210D0005EDB5 /* Green Category.png */,
+				3F9AF6831F29210D0005EDB5 /* Pink Category.png */,
 				FEA624501D6A29610011CF8F /* AppDelegate.swift */,
 				FEA624521D6A29610011CF8F /* ViewController.swift */,
 				4BFE76FA1F287FE4001DDD47 /* ViewControllerCategories.swift */,
@@ -234,14 +252,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F9AF6841F29210D0005EDB5 /* Yellow Category.png in Resources */,
 				4B251DA01F017D44005E51D4 /* NB photo.jpg in Resources */,
 				4BFE76B71F287043001DDD47 /* Main1.storyboard in Resources */,
+				3F9AF6861F29210D0005EDB5 /* Purple Category.png in Resources */,
+				3F9AF6871F29210D0005EDB5 /* Orange Category.png in Resources */,
 				4BA779961ED55E11003DB121 /* elefantLogo.png in Resources */,
 				FEA6245E1D6A29610011CF8F /* LaunchScreen.storyboard in Resources */,
 				4B251D9E1F017D11005E51D4 /* Main.storyboard in Resources */,
+				3F9AF6851F29210D0005EDB5 /* Blue Category.png in Resources */,
+				3F9AF6891F29210D0005EDB5 /* Pink Category.png in Resources */,
 				FEA6245B1D6A29610011CF8F /* Assets.xcassets in Resources */,
 				3F9AF6711F2917F40005EDB5 /* Elefant Logo.png in Resources */,
 				FEA624561D6A29610011CF8F /* Main2.storyboard in Resources */,
+				3F9AF6881F29210D0005EDB5 /* Green Category.png in Resources */,
 				4BFE76F91F2877AC001DDD47 /* Main3.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
