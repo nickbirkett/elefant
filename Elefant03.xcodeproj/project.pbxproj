@@ -22,7 +22,7 @@
 		4B251D9E1F017D11005E51D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B251D9D1F017D11005E51D4 /* Main.storyboard */; };
 		4B251DA01F017D44005E51D4 /* NB photo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4B251D9F1F017D44005E51D4 /* NB photo.jpg */; };
 		4BA779961ED55E11003DB121 /* elefantLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BA779951ED55E11003DB121 /* elefantLogo.png */; };
-		4BFE76B71F287043001DDD47 /* Main1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BFE76B61F287043001DDD47 /* Main1.storyboard */; };
+		4BFE76B71F287043001DDD47 /* MainNick.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BFE76B61F287043001DDD47 /* MainNick.storyboard */; };
 		4BFE76F91F2877AC001DDD47 /* Main3.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BFE76F81F2877AC001DDD47 /* Main3.storyboard */; };
 		4BFE76FB1F287FE4001DDD47 /* ViewControllerCategories.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BFE76FA1F287FE4001DDD47 /* ViewControllerCategories.swift */; };
 		4BFE76FD1F292934001DDD47 /* ViewCollectionCategories.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BFE76FC1F292934001DDD47 /* ViewCollectionCategories.swift */; };
@@ -67,7 +67,7 @@
 		4B251D9D1F017D11005E51D4 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		4B251D9F1F017D44005E51D4 /* NB photo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "NB photo.jpg"; sourceTree = "<group>"; };
 		4BA779951ED55E11003DB121 /* elefantLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = elefantLogo.png; sourceTree = "<group>"; };
-		4BFE76B61F287043001DDD47 /* Main1.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main1.storyboard; sourceTree = "<group>"; };
+		4BFE76B61F287043001DDD47 /* MainNick.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainNick.storyboard; sourceTree = "<group>"; };
 		4BFE76F81F2877AC001DDD47 /* Main3.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main3.storyboard; sourceTree = "<group>"; };
 		4BFE76FA1F287FE4001DDD47 /* ViewControllerCategories.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerCategories.swift; sourceTree = "<group>"; };
 		4BFE76FC1F292934001DDD47 /* ViewCollectionCategories.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewCollectionCategories.swift; sourceTree = "<group>"; };
@@ -143,7 +143,7 @@
 				3F9AF6A11F2935CC0005EDB5 /* Profile Button.png */,
 				3F9AF6A21F2935CC0005EDB5 /* Purple Category.png */,
 				3F9AF6A31F2935CC0005EDB5 /* Yellow Category.png */,
-				4BFE76B61F287043001DDD47 /* Main1.storyboard */,
+				4BFE76B61F287043001DDD47 /* MainNick.storyboard */,
 				4B251D9F1F017D44005E51D4 /* NB photo.jpg */,
 				4B251D9D1F017D11005E51D4 /* Main.storyboard */,
 				4BFE76F81F2877AC001DDD47 /* Main3.storyboard */,
@@ -273,7 +273,7 @@
 				3F9AF6AB1F2935CC0005EDB5 /* Orange Category.png in Resources */,
 				4B251DA01F017D44005E51D4 /* NB photo.jpg in Resources */,
 				3F9AF6A91F2935CC0005EDB5 /* Home Button.png in Resources */,
-				4BFE76B71F287043001DDD47 /* Main1.storyboard in Resources */,
+				4BFE76B71F287043001DDD47 /* MainNick.storyboard in Resources */,
 				4BA779961ED55E11003DB121 /* elefantLogo.png in Resources */,
 				3F9AF6AE1F2935CC0005EDB5 /* Purple Category.png in Resources */,
 				3F9AF6AC1F2935CC0005EDB5 /* Pink Category.png in Resources */,
