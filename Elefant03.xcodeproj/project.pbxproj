@@ -28,7 +28,7 @@
 		4BFE76FD1F292934001DDD47 /* ViewCollectionCategories.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BFE76FC1F292934001DDD47 /* ViewCollectionCategories.swift */; };
 		FEA624511D6A29610011CF8F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEA624501D6A29610011CF8F /* AppDelegate.swift */; };
 		FEA624531D6A29610011CF8F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEA624521D6A29610011CF8F /* ViewController.swift */; };
-		FEA624561D6A29610011CF8F /* Main2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEA624541D6A29610011CF8F /* Main2.storyboard */; };
+		FEA624561D6A29610011CF8F /* MainVanesa.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEA624541D6A29610011CF8F /* MainVanesa.storyboard */; };
 		FEA624591D6A29610011CF8F /* Elefant.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FEA624571D6A29610011CF8F /* Elefant.xcdatamodeld */; };
 		FEA6245B1D6A29610011CF8F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEA6245A1D6A29610011CF8F /* Assets.xcassets */; };
 		FEA6245E1D6A29610011CF8F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEA6245C1D6A29610011CF8F /* LaunchScreen.storyboard */; };
@@ -74,7 +74,7 @@
 		FEA6244D1D6A29610011CF8F /* Elefant03.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Elefant03.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEA624501D6A29610011CF8F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FEA624521D6A29610011CF8F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		FEA624551D6A29610011CF8F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main2.storyboard; sourceTree = "<group>"; };
+		FEA624551D6A29610011CF8F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainVanesa.storyboard; sourceTree = "<group>"; };
 		FEA624581D6A29610011CF8F /* Elefant.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Elefant.xcdatamodel; sourceTree = "<group>"; };
 		FEA6245A1D6A29610011CF8F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FEA6245D1D6A29610011CF8F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -152,7 +152,7 @@
 				FEA624521D6A29610011CF8F /* ViewController.swift */,
 				4BFE76FA1F287FE4001DDD47 /* ViewControllerCategories.swift */,
 				4BFE76FC1F292934001DDD47 /* ViewCollectionCategories.swift */,
-				FEA624541D6A29610011CF8F /* Main2.storyboard */,
+				FEA624541D6A29610011CF8F /* MainVanesa.storyboard */,
 				FEA6245A1D6A29610011CF8F /* Assets.xcassets */,
 				FEA6245C1D6A29610011CF8F /* LaunchScreen.storyboard */,
 				FEA6245F1D6A29610011CF8F /* Info.plist */,
@@ -285,7 +285,7 @@
 				FEA6245B1D6A29610011CF8F /* Assets.xcassets in Resources */,
 				3F9AF6A51F2935CC0005EDB5 /* Community Button.png in Resources */,
 				3F9AF6AA1F2935CC0005EDB5 /* Logo Button.png in Resources */,
-				FEA624561D6A29610011CF8F /* Main2.storyboard in Resources */,
+				FEA624561D6A29610011CF8F /* MainVanesa.storyboard in Resources */,
 				3F9AF6AF1F2935CC0005EDB5 /* Yellow Category.png in Resources */,
 				3F9AF6A41F2935CC0005EDB5 /* Blue Category.png in Resources */,
 				3F9AF6A61F2935CC0005EDB5 /* Data Button.png in Resources */,
@@ -352,12 +352,12 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		FEA624541D6A29610011CF8F /* Main2.storyboard */ = {
+		FEA624541D6A29610011CF8F /* MainVanesa.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				FEA624551D6A29610011CF8F /* Base */,
 			);
-			name = Main2.storyboard;
+			name = MainVanesa.storyboard;
 			sourceTree = "<group>";
 		};
 		FEA6245C1D6A29610011CF8F /* LaunchScreen.storyboard */ = {
