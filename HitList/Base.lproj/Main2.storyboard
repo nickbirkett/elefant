@@ -808,10 +808,10 @@
             </objects>
             <point key="canvasLocation" x="2567.1999999999998" y="-368.36581709145429"/>
         </scene>
-        <!--View Controller-->
+        <!--View Controller Categories-->
         <scene sceneID="Y4P-2G-vns">
             <objects>
-                <viewController id="WR6-3N-6KU" customClass="ViewController" customModule="Elefant03" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="WR6-3N-6KU" customClass="ViewControllerCategories" customModule="Elefant03" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="ZnR-WT-S1E"/>
                         <viewControllerLayoutGuide type="bottom" id="3WZ-Ef-dDF"/>
@@ -876,7 +876,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="MiA-v0-6vp" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4623" y="471"/>
+            <point key="canvasLocation" x="4556" y="471"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="PAk-9E-1n0">
@@ -915,10 +915,10 @@
             </objects>
             <point key="canvasLocation" x="632.79999999999995" y="0.44977511244377816"/>
         </scene>
-        <!--Collection View Controller-->
+        <!--View Collection Categories-->
         <scene sceneID="YyP-34-WHe">
             <objects>
-                <collectionViewController id="K31-7J-nAM" sceneMemberID="viewController">
+                <collectionViewController id="K31-7J-nAM" customClass="ViewCollectionCategories" customModule="Elefant03" customModuleProvider="target" sceneMemberID="viewController">
                     <collectionView key="view" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" dataMode="prototypes" id="OLG-vA-RfX">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -931,10 +931,10 @@
                         </collectionViewFlowLayout>
                         <cells>
                             <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="LfV-MH-uc0" colorLabel="IBBuiltInLabel-Orange">
-                                <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                <rect key="frame" x="0.0" y="0.0" width="161" height="137"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
-                                    <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="161" height="137"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" fixedFrame="YES" text="Title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sAx-zD-ZDr">
@@ -946,14 +946,16 @@
                                         </label>
                                     </subviews>
                                 </view>
+                                <size key="customSize" width="161" height="137"/>
                             </collectionViewCell>
                             <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="s7U-7o-FWg">
-                                <rect key="frame" x="65" y="0.0" width="50" height="50"/>
+                                <rect key="frame" x="171" y="0.5" width="158" height="136"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
-                                    <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="158" height="136"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </view>
+                                <size key="customSize" width="158" height="136"/>
                             </collectionViewCell>
                         </cells>
                         <connections>
