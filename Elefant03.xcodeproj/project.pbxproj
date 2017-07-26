@@ -52,18 +52,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3F9AF6981F2935CC0005EDB5 /* Blue Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Blue Category.png"; path = "HitList/Blue Category.png"; sourceTree = "<group>"; };
-		3F9AF6991F2935CC0005EDB5 /* Community Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Community Button.png"; path = "HitList/Community Button.png"; sourceTree = "<group>"; };
-		3F9AF69A1F2935CC0005EDB5 /* Data Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Data Button.png"; path = "HitList/Data Button.png"; sourceTree = "<group>"; };
-		3F9AF69B1F2935CC0005EDB5 /* Elefant Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Elefant Logo.png"; path = "HitList/Elefant Logo.png"; sourceTree = "<group>"; };
-		3F9AF69C1F2935CC0005EDB5 /* Green Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Green Category.png"; path = "HitList/Green Category.png"; sourceTree = "<group>"; };
-		3F9AF69D1F2935CC0005EDB5 /* Home Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Home Button.png"; path = "HitList/Home Button.png"; sourceTree = "<group>"; };
-		3F9AF69E1F2935CC0005EDB5 /* Logo Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Logo Button.png"; path = "HitList/Logo Button.png"; sourceTree = "<group>"; };
-		3F9AF69F1F2935CC0005EDB5 /* Orange Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Orange Category.png"; path = "HitList/Orange Category.png"; sourceTree = "<group>"; };
-		3F9AF6A01F2935CC0005EDB5 /* Pink Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Pink Category.png"; path = "HitList/Pink Category.png"; sourceTree = "<group>"; };
-		3F9AF6A11F2935CC0005EDB5 /* Profile Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Profile Button.png"; path = "HitList/Profile Button.png"; sourceTree = "<group>"; };
-		3F9AF6A21F2935CC0005EDB5 /* Purple Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Purple Category.png"; path = "HitList/Purple Category.png"; sourceTree = "<group>"; };
-		3F9AF6A31F2935CC0005EDB5 /* Yellow Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Yellow Category.png"; path = "HitList/Yellow Category.png"; sourceTree = "<group>"; };
+		3F9AF6981F2935CC0005EDB5 /* Blue Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Blue Category.png"; sourceTree = "<group>"; };
+		3F9AF6991F2935CC0005EDB5 /* Community Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Community Button.png"; sourceTree = "<group>"; };
+		3F9AF69A1F2935CC0005EDB5 /* Data Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Data Button.png"; sourceTree = "<group>"; };
+		3F9AF69B1F2935CC0005EDB5 /* Elefant Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Elefant Logo.png"; sourceTree = "<group>"; };
+		3F9AF69C1F2935CC0005EDB5 /* Green Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Green Category.png"; sourceTree = "<group>"; };
+		3F9AF69D1F2935CC0005EDB5 /* Home Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Home Button.png"; sourceTree = "<group>"; };
+		3F9AF69E1F2935CC0005EDB5 /* Logo Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Logo Button.png"; sourceTree = "<group>"; };
+		3F9AF69F1F2935CC0005EDB5 /* Orange Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Orange Category.png"; sourceTree = "<group>"; };
+		3F9AF6A01F2935CC0005EDB5 /* Pink Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pink Category.png"; sourceTree = "<group>"; };
+		3F9AF6A11F2935CC0005EDB5 /* Profile Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Profile Button.png"; sourceTree = "<group>"; };
+		3F9AF6A21F2935CC0005EDB5 /* Purple Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Purple Category.png"; sourceTree = "<group>"; };
+		3F9AF6A31F2935CC0005EDB5 /* Yellow Category.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Yellow Category.png"; sourceTree = "<group>"; };
 		4B251D9D1F017D11005E51D4 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		4B251D9F1F017D44005E51D4 /* NB photo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "NB photo.jpg"; sourceTree = "<group>"; };
 		4BA779951ED55E11003DB121 /* elefantLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = elefantLogo.png; sourceTree = "<group>"; };
@@ -111,18 +111,6 @@
 		FEA624441D6A29610011CF8F = {
 			isa = PBXGroup;
 			children = (
-				3F9AF6981F2935CC0005EDB5 /* Blue Category.png */,
-				3F9AF6991F2935CC0005EDB5 /* Community Button.png */,
-				3F9AF69A1F2935CC0005EDB5 /* Data Button.png */,
-				3F9AF69B1F2935CC0005EDB5 /* Elefant Logo.png */,
-				3F9AF69C1F2935CC0005EDB5 /* Green Category.png */,
-				3F9AF69D1F2935CC0005EDB5 /* Home Button.png */,
-				3F9AF69E1F2935CC0005EDB5 /* Logo Button.png */,
-				3F9AF69F1F2935CC0005EDB5 /* Orange Category.png */,
-				3F9AF6A01F2935CC0005EDB5 /* Pink Category.png */,
-				3F9AF6A11F2935CC0005EDB5 /* Profile Button.png */,
-				3F9AF6A21F2935CC0005EDB5 /* Purple Category.png */,
-				3F9AF6A31F2935CC0005EDB5 /* Yellow Category.png */,
 				FEA6244F1D6A29610011CF8F /* Elefant03 */,
 				FEA6244E1D6A29610011CF8F /* Products */,
 			);
@@ -143,6 +131,18 @@
 		FEA6244F1D6A29610011CF8F /* Elefant03 */ = {
 			isa = PBXGroup;
 			children = (
+				3F9AF6981F2935CC0005EDB5 /* Blue Category.png */,
+				3F9AF6991F2935CC0005EDB5 /* Community Button.png */,
+				3F9AF69A1F2935CC0005EDB5 /* Data Button.png */,
+				3F9AF69B1F2935CC0005EDB5 /* Elefant Logo.png */,
+				3F9AF69C1F2935CC0005EDB5 /* Green Category.png */,
+				3F9AF69D1F2935CC0005EDB5 /* Home Button.png */,
+				3F9AF69E1F2935CC0005EDB5 /* Logo Button.png */,
+				3F9AF69F1F2935CC0005EDB5 /* Orange Category.png */,
+				3F9AF6A01F2935CC0005EDB5 /* Pink Category.png */,
+				3F9AF6A11F2935CC0005EDB5 /* Profile Button.png */,
+				3F9AF6A21F2935CC0005EDB5 /* Purple Category.png */,
+				3F9AF6A31F2935CC0005EDB5 /* Yellow Category.png */,
 				4BFE76B61F287043001DDD47 /* Main1.storyboard */,
 				4B251D9F1F017D44005E51D4 /* NB photo.jpg */,
 				4B251D9D1F017D11005E51D4 /* Main.storyboard */,
