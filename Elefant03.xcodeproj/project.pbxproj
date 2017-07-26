@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F9AF6711F2917F40005EDB5 /* Elefant Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9AF6701F2917F40005EDB5 /* Elefant Logo.png */; };
 		4B251D9E1F017D11005E51D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B251D9D1F017D11005E51D4 /* Main.storyboard */; };
 		4B251DA01F017D44005E51D4 /* NB photo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4B251D9F1F017D44005E51D4 /* NB photo.jpg */; };
 		4BA779961ED55E11003DB121 /* elefantLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BA779951ED55E11003DB121 /* elefantLogo.png */; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3F9AF6701F2917F40005EDB5 /* Elefant Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Elefant Logo.png"; path = "../../../Desktop/Elefant Logo.png"; sourceTree = "<group>"; };
 		4B251D9D1F017D11005E51D4 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		4B251D9F1F017D44005E51D4 /* NB photo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "NB photo.jpg"; sourceTree = "<group>"; };
 		4BA779951ED55E11003DB121 /* elefantLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = elefantLogo.png; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 				4B251D9D1F017D11005E51D4 /* Main.storyboard */,
 				4BFE76F81F2877AC001DDD47 /* Main3.storyboard */,
 				4BA779951ED55E11003DB121 /* elefantLogo.png */,
+				3F9AF6701F2917F40005EDB5 /* Elefant Logo.png */,
 				FEA624501D6A29610011CF8F /* AppDelegate.swift */,
 				FEA624521D6A29610011CF8F /* ViewController.swift */,
 				4BFE76FA1F287FE4001DDD47 /* ViewControllerCategories.swift */,
@@ -237,6 +240,7 @@
 				FEA6245E1D6A29610011CF8F /* LaunchScreen.storyboard in Resources */,
 				4B251D9E1F017D11005E51D4 /* Main.storyboard in Resources */,
 				FEA6245B1D6A29610011CF8F /* Assets.xcassets in Resources */,
+				3F9AF6711F2917F40005EDB5 /* Elefant Logo.png in Resources */,
 				FEA624561D6A29610011CF8F /* Main2.storyboard in Resources */,
 				4BFE76F91F2877AC001DDD47 /* Main3.storyboard in Resources */,
 			);
