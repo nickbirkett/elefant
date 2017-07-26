@@ -9,8 +9,10 @@
 /* Begin PBXBuildFile section */
 		4B251D9E1F017D11005E51D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B251D9D1F017D11005E51D4 /* Main.storyboard */; };
 		4B251DA01F017D44005E51D4 /* NB photo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4B251D9F1F017D44005E51D4 /* NB photo.jpg */; };
-		4B69E95A1EDF6C3300ABC1A3 /* Main1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B69E9591EDF6C3300ABC1A3 /* Main1.storyboard */; };
 		4BA779961ED55E11003DB121 /* elefantLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BA779951ED55E11003DB121 /* elefantLogo.png */; };
+		4BFE76B71F287043001DDD47 /* Main1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BFE76B61F287043001DDD47 /* Main1.storyboard */; };
+		4BFE76F91F2877AC001DDD47 /* Main3.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BFE76F81F2877AC001DDD47 /* Main3.storyboard */; };
+		4BFE76FB1F287FE4001DDD47 /* ViewControllerCategories.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BFE76FA1F287FE4001DDD47 /* ViewControllerCategories.swift */; };
 		FEA624511D6A29610011CF8F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEA624501D6A29610011CF8F /* AppDelegate.swift */; };
 		FEA624531D6A29610011CF8F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEA624521D6A29610011CF8F /* ViewController.swift */; };
 		FEA624561D6A29610011CF8F /* Main2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEA624541D6A29610011CF8F /* Main2.storyboard */; };
@@ -39,8 +41,10 @@
 /* Begin PBXFileReference section */
 		4B251D9D1F017D11005E51D4 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		4B251D9F1F017D44005E51D4 /* NB photo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "NB photo.jpg"; sourceTree = "<group>"; };
-		4B69E9591EDF6C3300ABC1A3 /* Main1.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main1.storyboard; sourceTree = "<group>"; };
 		4BA779951ED55E11003DB121 /* elefantLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = elefantLogo.png; sourceTree = "<group>"; };
+		4BFE76B61F287043001DDD47 /* Main1.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main1.storyboard; sourceTree = "<group>"; };
+		4BFE76F81F2877AC001DDD47 /* Main3.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main3.storyboard; sourceTree = "<group>"; };
+		4BFE76FA1F287FE4001DDD47 /* ViewControllerCategories.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerCategories.swift; sourceTree = "<group>"; };
 		FEA6244D1D6A29610011CF8F /* Elefant03.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Elefant03.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEA624501D6A29610011CF8F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FEA624521D6A29610011CF8F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -101,12 +105,14 @@
 		FEA6244F1D6A29610011CF8F /* Elefant03 */ = {
 			isa = PBXGroup;
 			children = (
+				4BFE76B61F287043001DDD47 /* Main1.storyboard */,
 				4B251D9F1F017D44005E51D4 /* NB photo.jpg */,
-				4B69E9591EDF6C3300ABC1A3 /* Main1.storyboard */,
 				4B251D9D1F017D11005E51D4 /* Main.storyboard */,
+				4BFE76F81F2877AC001DDD47 /* Main3.storyboard */,
 				4BA779951ED55E11003DB121 /* elefantLogo.png */,
 				FEA624501D6A29610011CF8F /* AppDelegate.swift */,
 				FEA624521D6A29610011CF8F /* ViewController.swift */,
+				4BFE76FA1F287FE4001DDD47 /* ViewControllerCategories.swift */,
 				FEA624541D6A29610011CF8F /* Main2.storyboard */,
 				FEA6245A1D6A29610011CF8F /* Assets.xcassets */,
 				FEA6245C1D6A29610011CF8F /* LaunchScreen.storyboard */,
@@ -185,6 +191,7 @@
 				TargetAttributes = {
 					FEA6244C1D6A29610011CF8F = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = MQ9AGFBCHN;
 						ProvisioningStyle = Automatic;
 					};
 					FEA624631D6A29610011CF8F = {
@@ -225,12 +232,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				4B251DA01F017D44005E51D4 /* NB photo.jpg in Resources */,
-				4B69E95A1EDF6C3300ABC1A3 /* Main1.storyboard in Resources */,
+				4BFE76B71F287043001DDD47 /* Main1.storyboard in Resources */,
 				4BA779961ED55E11003DB121 /* elefantLogo.png in Resources */,
 				FEA6245E1D6A29610011CF8F /* LaunchScreen.storyboard in Resources */,
 				4B251D9E1F017D11005E51D4 /* Main.storyboard in Resources */,
 				FEA6245B1D6A29610011CF8F /* Assets.xcassets in Resources */,
 				FEA624561D6A29610011CF8F /* Main2.storyboard in Resources */,
+				4BFE76F91F2877AC001DDD47 /* Main3.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,6 +265,7 @@
 			files = (
 				FEA624591D6A29610011CF8F /* Elefant.xcdatamodeld in Sources */,
 				FEA624531D6A29610011CF8F /* ViewController.swift in Sources */,
+				4BFE76FB1F287FE4001DDD47 /* ViewControllerCategories.swift in Sources */,
 				FEA624511D6A29610011CF8F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -409,10 +418,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = MQ9AGFBCHN;
 				INFOPLIST_FILE = HitList/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.HitList;
+				PRODUCT_BUNDLE_IDENTIFIER = com.elefant.HitList;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -421,10 +433,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = MQ9AGFBCHN;
 				INFOPLIST_FILE = HitList/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.HitList;
+				PRODUCT_BUNDLE_IDENTIFIER = com.elefant.HitList;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
