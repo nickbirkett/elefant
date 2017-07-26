@@ -1,8 +1,21 @@
+//
+//  ViewCollectionCategories.swift
+//  Elefant03
+//
+//  Created by Vanesa Gomez gonzalez on 7/26/17.
+//  Copyright © 2017 Razeware. All rights reserved.
+//
+
+import Foundation
+
+
+
+
 import UIKit
 import CoreData
 
-class ViewControllerCategories: UIViewController {
-  /*
+class ViewCollectionCategories: UICollectionViewController {
+  
   @IBOutlet weak var tableView: UITableView!
   var tableCategories: [NSManagedObject] = []
   
@@ -70,7 +83,7 @@ class ViewControllerCategories: UIViewController {
                                             in: managedContext)!
     
     let category = NSManagedObject(entity: entity,
-                                 insertInto: managedContext)
+                                   insertInto: managedContext)
     
     category.setValue(name, forKeyPath: "name")
     
@@ -84,7 +97,7 @@ class ViewControllerCategories: UIViewController {
 }
 
 // MARK: - UITableViewDataSource
-extension ViewControllerCategories: UITableViewDataSource {
+extension ViewCollectionCategories: UITableViewDataSource {
   
   func tableView(_ tableView: UITableView,
                  numberOfRowsInSection section: Int) -> Int {
@@ -103,6 +116,6 @@ extension ViewControllerCategories: UITableViewDataSource {
     
     return cell
   }
-  */
+  
   
 }
