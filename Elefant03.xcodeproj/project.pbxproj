@@ -26,6 +26,7 @@
 		4BFE76F91F2877AC001DDD47 /* Main3.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BFE76F81F2877AC001DDD47 /* Main3.storyboard */; };
 		4BFE76FB1F287FE4001DDD47 /* ViewControllerCategories.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BFE76FA1F287FE4001DDD47 /* ViewControllerCategories.swift */; };
 		4BFE76FD1F292934001DDD47 /* ViewCollectionCategories.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BFE76FC1F292934001DDD47 /* ViewCollectionCategories.swift */; };
+		4BFE76FF1F292FFC001DDD47 /* MainNick.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BFE76FE1F292FFC001DDD47 /* MainNick.storyboard */; };
 		FEA624511D6A29610011CF8F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEA624501D6A29610011CF8F /* AppDelegate.swift */; };
 		FEA624531D6A29610011CF8F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEA624521D6A29610011CF8F /* ViewController.swift */; };
 		FEA624561D6A29610011CF8F /* Main2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEA624541D6A29610011CF8F /* Main2.storyboard */; };
@@ -71,6 +72,7 @@
 		4BFE76F81F2877AC001DDD47 /* Main3.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main3.storyboard; sourceTree = "<group>"; };
 		4BFE76FA1F287FE4001DDD47 /* ViewControllerCategories.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerCategories.swift; sourceTree = "<group>"; };
 		4BFE76FC1F292934001DDD47 /* ViewCollectionCategories.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewCollectionCategories.swift; sourceTree = "<group>"; };
+		4BFE76FE1F292FFC001DDD47 /* MainNick.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainNick.storyboard; sourceTree = "<group>"; };
 		FEA6244D1D6A29610011CF8F /* Elefant03.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Elefant03.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEA624501D6A29610011CF8F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FEA624521D6A29610011CF8F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -135,6 +137,7 @@
 				4B251D9F1F017D44005E51D4 /* NB photo.jpg */,
 				4B251D9D1F017D11005E51D4 /* Main.storyboard */,
 				4BFE76F81F2877AC001DDD47 /* Main3.storyboard */,
+				4BFE76FE1F292FFC001DDD47 /* MainNick.storyboard */,
 				4BA779951ED55E11003DB121 /* elefantLogo.png */,
 				3F9AF6701F2917F40005EDB5 /* Elefant Logo.png */,
 				3F9AF67E1F29210D0005EDB5 /* Yellow Category.png */,
@@ -283,6 +286,7 @@
 				3F9AF68F1F2927480005EDB5 /* Home Button.png in Resources */,
 				4B251D9E1F017D11005E51D4 /* Main.storyboard in Resources */,
 				3F9AF6921F2927480005EDB5 /* Community Button.png in Resources */,
+				4BFE76FF1F292FFC001DDD47 /* MainNick.storyboard in Resources */,
 				3F9AF6851F29210D0005EDB5 /* Blue Category.png in Resources */,
 				3F9AF6891F29210D0005EDB5 /* Pink Category.png in Resources */,
 				FEA6245B1D6A29610011CF8F /* Assets.xcassets in Resources */,
