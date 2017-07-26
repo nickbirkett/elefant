@@ -9,44 +9,6 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
-        <scene sceneID="oBD-Qd-Y7c">
-            <objects>
-                <viewController id="Lim-60-e17" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="xWj-mk-GKK"/>
-                        <viewControllerLayoutGuide type="bottom" id="9O8-lT-5v1"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="KUp-tI-XmC">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="elefantLogo.png" translatesAutoresizingMaskIntoConstraints="NO" id="ABF-wJ-4me">
-                                <rect key="frame" x="87" y="173" width="143" height="150"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Elefant" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zOd-mX-cLz">
-                                <rect key="frame" x="132" y="124" width="53" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Where advice lives" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zbv-C4-31p">
-                                <rect key="frame" x="87" y="356" width="164" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                        </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="kF5-m1-EgF" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="-70" y="2"/>
-        </scene>
         <!--First-->
         <scene sceneID="hNz-n2-bh7">
             <objects>
@@ -165,7 +127,6 @@
         <!--View Controller-->
         <scene sceneID="Rb0-9H-LBo">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="0Fj-1r-SHd" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <viewController id="3uq-tW-DRN" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="gMZ-ti-Pac"/>
@@ -258,13 +219,13 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="0Fj-1r-SHd" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="634" y="783"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="nfE-HG-iNS">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="No4-GZ-trt" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <viewController id="rQ4-Of-7TG" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y8M-ja-yGT"/>
@@ -337,13 +298,13 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="No4-GZ-trt" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-176" y="1565"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="Lf4-PO-ytM">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="bwe-VA-SR0" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <viewController id="3Cz-Kp-7pw" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Do6-Na-xMc"/>
@@ -376,13 +337,13 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="bwe-VA-SR0" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="634" y="1565"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="9kn-jP-HdJ">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="hSr-Qy-lTP" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <viewController id="mJa-Tf-yyV" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="VT9-f5-Vg5"/>
@@ -412,6 +373,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="hSr-Qy-lTP" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1419" y="1564"/>
         </scene>
@@ -523,7 +485,6 @@
         <!--View Controller-->
         <scene sceneID="uNT-cW-bHW">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="NJ4-4C-gK5" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <viewController id="lGg-8P-4if" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="YiE-33-vWK"/>
@@ -544,6 +505,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="NJ4-4C-gK5" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="2439" y="302"/>
         </scene>

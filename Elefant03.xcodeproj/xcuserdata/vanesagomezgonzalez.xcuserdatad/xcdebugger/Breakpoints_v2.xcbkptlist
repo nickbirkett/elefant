@@ -6,7 +6,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "HitList/ViewController.swift"
@@ -19,14 +19,14 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "Elefant03.ViewController.(addName (__ObjC.UIBarButtonItem) -&gt; ()).(closure #1)"
                   moduleName = "Elefant03"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/vanesagomezgonzalez/Downloads/elefant02/HitList/ViewController.swift"
-                  timestampString = "520192059.305887"
+                  timestampString = "522740171.467093"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "46"
@@ -34,14 +34,14 @@
                   offsetFromSymbolStart = "618">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "Elefant03.ViewController.(addName (__ObjC.UIBarButtonItem) -&gt; ()).(closure #1)"
                   moduleName = "Elefant03"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/vanesagomezgonzalez/Downloads/elefant02/HitList/ViewController.swift"
-                  timestampString = "520192059.333052"
+                  timestampString = "522740171.539609"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "46"
