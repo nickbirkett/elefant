@@ -230,7 +230,7 @@
 				TargetAttributes = {
 					FEA6244C1D6A29610011CF8F = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = MQ9AGFBCHN;
+						DevelopmentTeam = ZZ393BRE89;
 						ProvisioningStyle = Automatic;
 					};
 					FEA624631D6A29610011CF8F = {
@@ -471,7 +471,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = MQ9AGFBCHN;
+				DEVELOPMENT_TEAM = ZZ393BRE89;
 				INFOPLIST_FILE = HitList/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.elefant.HitList;
@@ -486,7 +486,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = MQ9AGFBCHN;
+				DEVELOPMENT_TEAM = ZZ393BRE89;
 				INFOPLIST_FILE = HitList/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.elefant.HitList;

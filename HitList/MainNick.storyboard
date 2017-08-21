@@ -821,14 +821,6 @@
             <point key="canvasLocation" x="1625" y="-1761"/>
         </scene>
         <!--View Controller-->
-        <scene sceneID="YRG-Gj-NZK">
-            <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="Cgj-Ng-ylD" userLabel="First Responder" sceneMemberID="firstResponder"/>
-                <viewController id="uCv-cb-7DH" sceneMemberID="viewController"/>
-            </objects>
-            <point key="canvasLocation" x="2837" y="-1827"/>
-        </scene>
-        <!--View Controller-->
         <scene sceneID="Mis-Ai-kgh">
             <objects>
                 <viewController id="Gez-CK-1b4" sceneMemberID="viewController">
